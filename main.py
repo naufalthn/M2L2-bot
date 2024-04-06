@@ -91,4 +91,4 @@ async def sampah(ctx):
 
 
 
-bot.run("MTIxODQxNjQ4NTU1MTA1MDk0Mw.GJaJ1l.lYLmwii8BRoxM1DNYD6kFNAxzaTr_iFM3_vPY8")
+bot.run("Token")
